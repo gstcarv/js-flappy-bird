@@ -10,6 +10,8 @@
 
 Simple Flappy Bird game application using plain javascript and webpack as module bundler!
 
+The game can be played at https://gstcarv.github.io/js-flappy-bird/
+
 # Installing
 
 Clone the repository
